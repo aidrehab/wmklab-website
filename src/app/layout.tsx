@@ -15,7 +15,11 @@ export default function RootLayout({
     <html lang="en">
       <body>
         {children}
-        <footer>Copyright &copy; wmklab</footer>
+        <footer>
+          <div className="copy">Copyright &copy; wmklab</div>
+          <div>NIP: 8133926284 | REGON: 54056738400000 | KRS: 0001147564</div>
+          <div>WMKlab sp. z o.o., Stanisława Moniuszki 11, 35-015 Rzeszów</div>
+        </footer>
       </body>
     </html>
   );
