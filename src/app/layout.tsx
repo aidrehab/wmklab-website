@@ -19,6 +19,7 @@ export default function RootLayout({
           <div className="copy">Copyright &copy; wmklab</div>
           <div>NIP: 8133926284 | REGON: 54056738400000 | KRS: 0001147564</div>
           <div>WMKlab sp. z o.o., Stanisława Moniuszki 11, 35-015 Rzeszów</div>
+          <div>Contact: <a href="mailto:biuro@wmklab.com">biuro [at] wmklab.com</a></div>
         </footer>
       </body>
     </html>
